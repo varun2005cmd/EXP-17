@@ -51,6 +51,8 @@ This C++ code provides a simple implementation of a **singly linked list** with 
 
 ## Code
 ~~~
+// Varun pendem
+// PRN: 23070123149
 #include <iostream>
 using namespace std;
 
@@ -181,7 +183,8 @@ int main() {
 ~~~
 ## Code Output
 
-![](https://github.com/Sundar13905/Linked_list/blob/main/linked_list.png)
+![image](https://github.com/user-attachments/assets/9872f3e6-c8bc-4a04-bd39-3dc4b37458d2)
+
 
 ## Conclusion
-We learnt how to implement single linked list in c++
+We learnt how to implement singly linked lists in c++ 
